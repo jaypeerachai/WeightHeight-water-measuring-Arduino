@@ -25,6 +25,12 @@
  *  Arduino Mega pin 51 -> MicroSD card adapter MOSI
  *  Arduino Mega pin 50 -> MicroSD card adapter MISO
  *  Arduino Mega pin 52 -> MicroSD card adapter SCK
+ *
+ */
+ 
+ /**
+ * - Optimize the code by grouping code as a function, adding more comment, and adjusting the delay time.
+ * - Add more comment and description.
  * 25/6/2018
  */
 
