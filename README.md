@@ -1,6 +1,6 @@
 # WeightHeight-water-measuring-Arduino
 
-### 25/7/2018
+### 25/6/2018
 _UPDATE #1_
 - Optimize the code by grouping code as a function and adjusting the delay time.
 - Add more comments and descriptions.
