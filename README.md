@@ -7,7 +7,7 @@ _UPDATE #1_<br />
 
 ### 2/7/2018
 _UPDATE #2_<br />
-- Include the wake up and cycle for GSM board to save power when the board go to sleep mode.<br />
+- Include the wake up and sleep cycle for GSM board to save power when the board go to sleep mode.<br />
 
 ### 5/7/2018
 _UPDATE #3_<br />
